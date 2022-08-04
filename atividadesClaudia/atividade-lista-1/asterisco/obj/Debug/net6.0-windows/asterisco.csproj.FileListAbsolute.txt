@@ -1,0 +1,17 @@
+C:\Users\Gustavo\Desktop\atividadesClaudia\atividade-lista-1\asterisco\bin\Debug\net6.0-windows\asterisco.exe
+C:\Users\Gustavo\Desktop\atividadesClaudia\atividade-lista-1\asterisco\bin\Debug\net6.0-windows\asterisco.deps.json
+C:\Users\Gustavo\Desktop\atividadesClaudia\atividade-lista-1\asterisco\bin\Debug\net6.0-windows\asterisco.runtimeconfig.json
+C:\Users\Gustavo\Desktop\atividadesClaudia\atividade-lista-1\asterisco\bin\Debug\net6.0-windows\asterisco.dll
+C:\Users\Gustavo\Desktop\atividadesClaudia\atividade-lista-1\asterisco\bin\Debug\net6.0-windows\asterisco.pdb
+C:\Users\Gustavo\Desktop\atividadesClaudia\atividade-lista-1\asterisco\obj\Debug\net6.0-windows\asterisco.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\atividadesClaudia\atividade-lista-1\asterisco\obj\Debug\net6.0-windows\asterisco.Form1.resources
+C:\Users\Gustavo\Desktop\atividadesClaudia\atividade-lista-1\asterisco\obj\Debug\net6.0-windows\asterisco.csproj.GenerateResource.cache
+C:\Users\Gustavo\Desktop\atividadesClaudia\atividade-lista-1\asterisco\obj\Debug\net6.0-windows\asterisco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\atividadesClaudia\atividade-lista-1\asterisco\obj\Debug\net6.0-windows\asterisco.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\atividadesClaudia\atividade-lista-1\asterisco\obj\Debug\net6.0-windows\asterisco.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\atividadesClaudia\atividade-lista-1\asterisco\obj\Debug\net6.0-windows\asterisco.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\atividadesClaudia\atividade-lista-1\asterisco\obj\Debug\net6.0-windows\asterisco.dll
+C:\Users\Gustavo\Desktop\atividadesClaudia\atividade-lista-1\asterisco\obj\Debug\net6.0-windows\refint\asterisco.dll
+C:\Users\Gustavo\Desktop\atividadesClaudia\atividade-lista-1\asterisco\obj\Debug\net6.0-windows\asterisco.pdb
+C:\Users\Gustavo\Desktop\atividadesClaudia\atividade-lista-1\asterisco\obj\Debug\net6.0-windows\asterisco.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\atividadesClaudia\atividade-lista-1\asterisco\obj\Debug\net6.0-windows\ref\asterisco.dll
